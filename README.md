@@ -8,3 +8,12 @@ Python. A single file. Code you can debug with print().
 https://buildyourowncodingagent.com
 
 https://github.com/optimalone/build-your-own-coding-agent
+
+## Requirements
+
+```sh
+uv add requests
+uv add python-dotenv
+uv add pytest
+
+```
