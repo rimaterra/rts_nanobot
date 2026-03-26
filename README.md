@@ -1,6 +1,7 @@
 # Build Your Own Coding Agent
 
-_J. Owen_
+J. Owen
+_([Owen Ou](https://owenou.com/))_
 
 Build Nanocode — a production-grade AI coding agent — from scratch. Pure
 Python. A single file. Code you can debug with print().
